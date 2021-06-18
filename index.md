@@ -4,34 +4,14 @@ You can use the [editor on GitHub](https://github.com/vipulwadekar/java_Librarym
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is my first project when i was studying in my diploma college ,that time i had learn all basic Language and core princeiple of programming languages like
+1)Programming Language 'c'
+2)Data Structure using 'c'
+3)c++ Object oriented Language
+4))Core Java
+5)Advanced Java
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vipulwadekar/java_LibrarymgmtSystem/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+so , point is that when i used to go in the library to take any book ....that time library management supervisor was handling  all work manually 
+but i noticed that and thought came into my mind ,what can i do for this problem,how we can solve this problem if i l have knowledge of programming with the help of this knowledege ,should i solve this problem?i ask myself ........so i asked this question to my faculty..and i discussed all this with my sir's and faculty and they inspired me too 
+you can do ,you can do work on your idea ...and i made this project
